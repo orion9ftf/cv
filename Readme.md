@@ -12,9 +12,9 @@ Se actualiza la primera parte del sitio, fue creado:
 - Footer
 - Imágenes 
 
-![imagen](/cv/img/first-card.png)
+![imagen](img/first-card.png)
 
 Se agrega la segunda card para definición de gustos:
 
-![image](/cv/img/two-card.png)
+![image](img/two-card.png)
 
